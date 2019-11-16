@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa5031e5-4c82-46f2-b476-d2505ca06a93" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baidu_pic_spider/spiders/baidu_pic_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/baidu_pic_spider/items.py" />
+        <option value="$PROJECT_DIR$/baidu_pic_spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/baidu_pic_spider/spiders/main.py" />
+        <option value="$PROJECT_DIR$/baidu_pic_spider/main.py" />
+        <option value="$PROJECT_DIR$/baidu_pic_spider/settings.py" />
+        <option value="$PROJECT_DIR$/baidu_pic_spider/spiders/baidu_pic_spider.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="688" />
+    <option name="y" value="81" />
+    <option name="width" value="1152" />
+    <option name="height" value="695" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="baidu_pic_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baidu_pic_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baidu_pic_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baidu_pic_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu_pic_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baidu_pic_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baidu_pic_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu_pic_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baidu_pic_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baidu_pic_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu_pic_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baidu_image_spider" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baidu_pic_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baidu_pic_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_pic_spider/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baidu_pic_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baidu_pic_spider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_pic_spider/spiders/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5031e5-4c82-46f2-b476-d2505ca06a93" name="Default Changelist" comment="" />
+      <created>1573284117736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573284117736</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1024984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5881459" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.67781156" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Program Files/Python/Lib/site-packages/scrapy/pipelines/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#72#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/0a7352f8d7308a6eb758630b62ace4c3973929b9.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/spiders/main.py" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/3c4825f2386c8151ac93b768a36d85bafd4e15cd.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/0a54fb68b5af557a54c717572a34172aeea95bab.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/02f44eb57a3d17dc855d67a6fa066894aad218d3.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/3c9bc91bed5268faaa9bb7ffb125fb7095ea131b.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/3d7c12446accb455078c7cb63090dfe6ea2ea197.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/4f20cf8a66c6f02a52e963626ffac8706c3d72f4.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/6d8aa968a4d269aabd7fe396064afced155b1d49.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/06b4e44c168a5739717310bc63c7f39cad78d013.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/21e2bf7b2fd4dd6d1872f0abc77e1c7ed2a4aa91.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/d04fc7728d81733f7da3007448519e2c5e7db764.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/8160418cb65ef986e9326b126ef78a9dd7a917a0.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/ec5c7863a15746acba59cecb8131b83fdc74873e.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/f7df5c992b15a5ecbae0f1ab072e50d97bf354a3.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/6261340844072cd04f8fc275a9cda056733048d3.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/33e836b2c1170334496a2b322765394ff35cf50c.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/images/full/8b9540889051fad7968aa31784797df03e1cdd8b.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_pic_spider/spiders/baidu_pic_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
