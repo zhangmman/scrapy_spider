@@ -34,7 +34,7 @@ class LoginSpider(scrapy.Spider):
     def login(self, response):
         # 登录页面的解析函数， 构造FormRequest对象提交表单
         print('# 登录页面的解析函数， 构造FormRequest对象提交表单')
-        fd = {'email': 'zhangman@ncepu.cn', 'password': 'zhang5742516?'}
+        fd = {'email': 'zhangman@ncepu.cn', 'password': '*********'}
         print('尝试登入！！！！！！！！')
         yield FormRequest.from_response(response, formdata=fd, callback=self.parse_login)
         print('********你好啊 **********')
